@@ -1,0 +1,10 @@
+.quemnossaempresa {width: 100%; background-color: #fff; border-radius: 20px; margin: 40px 0px 20px 0px; float: left;
+webkit-box-shadow: rgb(0 0 0 / 30%) 0px 3px 10px 0px;
+-moz-box-shadow: rgba(0,0,0,0.3) 0px 3px 10px 0px;
+-o-box-shadow: rgba(0,0,0,0.3) 0px 3px 10px 0px;
+-ms-box-shadow: rgba(0,0,0,0.3) 0px 3px 10px 0px;
+box-shadow: rgb(0 0 0 / 30%) 0px 3px 10px 0px;
+border: 1px solid #DCDCDC;
+}
+.quemnossaempresa p {padding: 0px 25px 0px 25px;}
+.quemnossaempresa h2 {width: 100%; background-color: #F68D04; padding: 20px 0px 20px 25px; font-size: 18px; color:#fff; text-shadow: 0.1em 0.1em 0.2em black; border-radius: 20px; }
